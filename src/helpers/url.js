@@ -1,0 +1,1 @@
+export const url = 'https://simulacro-1-pok.herokuapp.com/pokemon/'
